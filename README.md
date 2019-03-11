@@ -7,6 +7,13 @@ The CNCF Developer Reps are:
 - Michelle Noorali @michelleN
 - Brandon Philips @philips
 
+## Contact Information
+
+Both of these lists allow for anyone to post:
+
+- Public discussion list https://groups.google.com/forum/#!forum/cncfdevreps
+- Private to developer reps only discussion list https://groups.google.com/forum/#!forum/cncfdevreps-private
+
 ## How to use this repo?
 
 If you are CNCF maintainer please feel free to either email the CNCF Developer Reps directly or file an issue on this repo. Things that are in scope:
